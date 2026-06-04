@@ -248,6 +248,7 @@ public class MovieController {
 
 <img width="1008" height="657" alt="image" src="https://github.com/user-attachments/assets/ed798547-1fc2-4a3f-b48c-7bb8a5c353a2" />
 
-## Result
 
+
+## Result
 Thus the development of a Spring Boot application to store and retrieve data from a Movies database is completed successfully
